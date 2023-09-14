@@ -8,8 +8,7 @@
 #define FPS 1
 #define FN1 2
 #define FN2 3
-#define ADJUST 4
-#define KEEB 5
+#define KEEB 4
 
 / {
     keymap {
